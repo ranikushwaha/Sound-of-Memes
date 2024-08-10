@@ -17,7 +17,7 @@ Clone the repository and follow the setup instructions to get the app up and run
 
 bash
 Copy code
-git clone https://github.com/your-username/sound-of-memes.git
+git clone 
 cd sound-of-memes
 flutter pub get
 flutter run
